@@ -88,7 +88,7 @@ class Hero extends Person{
 public class Java100_oop1 {
     public static void main(String [] args) {
         Person p1 = new Person();
-        p1.setName("홍길동");
+        p1.setName("Hong");
         System.out.println(p1.getName());
     }
 }
